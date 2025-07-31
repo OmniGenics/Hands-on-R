@@ -9,8 +9,7 @@ This course is tailored for students and professionals in **biotech, bioinformat
 ## 🧠 What You'll Learn
 
 - Fundamentals of **R programming**
-- Data wrangling using `tidyverse`
-- Introduction to **data visualization**
+- Data visualization using `ggplot2`
 - Working with **biological data**
 - Case studies in **biotech** and **bioinformatics**
 - Preparing your own **project notebook** in R
@@ -23,8 +22,8 @@ This course is tailored for students and professionals in **biotech, bioinformat
 .
 ├── session1/
 ├── session2/
-├── session3/
-├── session4/
+├── session3+4/
+├── session5+6/
 ├── final_project/
 ├── datasets/
 └── README.md
@@ -45,7 +44,7 @@ Make sure to install:
 You can install the required packages using the following R code:
 
 ```r
-install.packages(c("tidyverse", "ggplot2", "readr", "dplyr"))
+install.packages(c("ggplot2", "readr", "dplyr"))
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 BiocManager::install("Biobase")
