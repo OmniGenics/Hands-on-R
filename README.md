@@ -20,12 +20,11 @@ This course is tailored for students and professionals in **biotech, bioinformat
 
 ```bash
 .
-├── session1/
-├── session2/
-├── session3+4/
-├── session5+6/
-├── final_project/
-├── datasets/
+├── lec1/
+├── lec2/
+├── lec3+4/
+├── lec5+6/
+├── projects/
 └── README.md
 # Hands-on-R
 Crash R Course by OmniGenics
