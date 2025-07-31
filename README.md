@@ -29,7 +29,7 @@ This course is tailored for students and professionals in **biotech, bioinformat
 └── README.md
 # Hands-on-R
 Crash R Course by OmniGenics
-
+```
 ## 📚 Requirements
 
 Make sure to install:
